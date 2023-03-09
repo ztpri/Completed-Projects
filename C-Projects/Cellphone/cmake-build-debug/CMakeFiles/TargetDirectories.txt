@@ -1,0 +1,3 @@
+C:/Users/zacha/CLionProjects/Cellphone/cmake-build-debug/CMakeFiles/Cellphone.dir
+C:/Users/zacha/CLionProjects/Cellphone/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zacha/CLionProjects/Cellphone/cmake-build-debug/CMakeFiles/rebuild_cache.dir
