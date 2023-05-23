@@ -1,3 +1,0 @@
-C:/Users/zacha/CLionProjects/market/cmake-build-debug/CMakeFiles/Market.dir
-C:/Users/zacha/CLionProjects/market/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/zacha/CLionProjects/market/cmake-build-debug/CMakeFiles/rebuild_cache.dir
